@@ -1,4 +1,4 @@
-## Import important/required
+## Import important/required libraries
 import torch
 import torch.utils.data
 import torch.nn as nn
